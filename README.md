@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/shurun/shurun/blob/faca4d3cae85cb430f88fed356392a80d44f9704/images/EAv2VMsU8AAOzFI.jfif)
+![alt text](https://github.com/shurun/shurun/blob/df565b5d61bf6361761877d92685dab80cdf428a/images/EAv2VMsU8AAOzFI.jfif)
 
 <!-- Add your details -->
 
